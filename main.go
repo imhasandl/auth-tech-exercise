@@ -11,7 +11,6 @@ import (
 	_ "github.com/lib/pq"
 )
 
-
 func main() {
 	if err := godotenv.Load(".env"); err != nil {
 		log.Fatal("Can not load .env file")
