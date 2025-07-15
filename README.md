@@ -44,7 +44,7 @@ docker compose -f docker-compose.yml down
 
 ---
 
-## Swagger документация API
+## Документация API
 
 ### 1. Регистрация пользователя
 
